@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TicTacToeMM {
+public class TicTacToeMiniMax {
 
     public static void main(String[] args) {
         char[][] board = {
